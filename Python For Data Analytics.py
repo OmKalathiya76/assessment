@@ -1,7 +1,6 @@
 
-# DA Assessment - Core Python — OOP Solutions
-# Generated: October 13, 2025
-# Classes: ClinicAppointment, SchoolManagement, BusReservation
+# DA Assessment - Core Python 
+
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional
 import itertools, re, uuid
